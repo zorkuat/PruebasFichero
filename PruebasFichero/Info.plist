@@ -34,6 +34,10 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>El sistema va a coger tu foto, la va a imprimir, te la va a meter por el ohio moreno y lo va a llamar FORTO,</string>
+	<key>NSCameraUsageDescription</key>
+	<string>SI NO APRUEBAS LOS ERMISOS DE LA CAMARA EL FANTASMA DE JENNY VENDRA Y TE DESCOYUNTARÁ. ENVIALE ESTE PERMISO A CINCO CONTACTOS.</string>
 	<key>UISupportedInterfaceOrientations~ipad</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
